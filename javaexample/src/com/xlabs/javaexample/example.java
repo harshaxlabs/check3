@@ -6,7 +6,8 @@ public class example {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//Enter two number whose GCD needs to be calculated.     
+		//Enter two number whose GCD needs to be calculated. 
+		//THIS IS SCANNER
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Please enter first number to find GCD");
 		int number1 = scanner.nextInt();
