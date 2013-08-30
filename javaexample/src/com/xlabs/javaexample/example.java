@@ -9,6 +9,7 @@ public class example {
 		//Enter two number whose GCD needs to be calculated. 
 		//THIS IS SCANNER
 		//THIS IS SCANNER2
+		//THIS IS SCHANNER111
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Please enter first number to find GCD");
 		int number1 = scanner.nextInt();
