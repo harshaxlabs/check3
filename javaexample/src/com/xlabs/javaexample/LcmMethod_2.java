@@ -33,6 +33,7 @@ int min=a<b?a:b;
 		 */
 		for(int i=1;i<=min;i++)
 		{
+			System.out.println("in for loop");
 			x=max*i; //finding multiples of the maximum number
 			if(x%min==0) //Finding the multiple of maximum number which is divisible by the minimum number.
 			{
