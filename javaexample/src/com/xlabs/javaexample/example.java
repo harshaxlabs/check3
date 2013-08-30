@@ -18,6 +18,7 @@ public class example {
 
 		System.out.println("GCD of two numbers " + number1 +" and " 
 				+ number2 +" is :" + findGCD(number1,number2));
+		System.out.println("ending the scanner");
 		scanner.close();
 	}
 
