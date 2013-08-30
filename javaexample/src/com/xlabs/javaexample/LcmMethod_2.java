@@ -40,7 +40,7 @@ int min=a<b?a:b;
 				lcm=x; //making the first multiple of maximum number which is divisible by the minimum number, as the LCM
 				break; //exiting from the loop, as we don’t need anymore checking after getting the LCM
 			}
-			System.out.println("ATHE END for loop");
+			System.out.println(" END for loop");
 		}
 		System.out.println("L.C.M. = "+lcm);
 	}
